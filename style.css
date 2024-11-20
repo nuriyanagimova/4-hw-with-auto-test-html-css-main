@@ -225,12 +225,6 @@ footer {
         align-items: flex-start;
         gap: 60px;
         
-        
-
-
-        
-        
-        
     }
 
     .main-image {
@@ -279,7 +273,7 @@ footer {
     .main-section .wrapper {
         /* 📍 Отступ между изображением и блоком с текстом */
         margin-bottom: 30px;
-        
+        gap:40px
     }
 
     .main-title {
